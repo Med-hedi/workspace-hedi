@@ -1,0 +1,40 @@
+/**** cookie bar ****/
+#cookie-bar {
+     background: #fff;
+    line-height: 40px;
+    color: #17211e;
+    text-align: center;
+    padding: 3px 0 25px 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 10000;
+    width: 100%;
+    padding: 15px 0;
+    box-shadow: 5px 0px 9px 1px #000;
+}
+
+#cookie-bar .cookie {
+    padding: 12px 25px 0 25px;
+    width: 100%;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.details{
+	border-bottom: 1px dotted #000;
+	padding: 17px 0 30px 0;
+}
+
+.read-more{
+	float:right;
+}
+
+.navbar{
+	min-height: 65px;
+	box-shadow: 0 0 8px 0;
+	padding-top: 5px;
+	background:#69c3d3 !important;
+	border:none;
+}
+
+a.navbar-brand{color:#fff !important; font-size:22px}

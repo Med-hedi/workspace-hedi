@@ -1,0 +1,12 @@
+<!-- content -->
+<div>
+	<h1>Get all users</h1>
+	<div ng-repeat="user in listUsers" class="details">
+		<p><strong>Name: </strong>{{user.name}}</p>
+		<p><strong>Username: </strong>{{user.username}}</p>
+		<p><strong>Email: </strong>{{user.email}}</p>
+		<a class="read-more" href="#/details/user/{{user.id}}">Read more ></a>
+	</div>
+	<br/><br/><br/><br/><br/><br/>
+</div>
+<!-- !content -->

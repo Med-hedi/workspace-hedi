@@ -1,0 +1,8 @@
+Les principaux points dans ce projet:
+1 - Ajout d'un loading bar AgularJs qui intercepte le chargement de données au moment du changement de route 
+2 - Ajout d'un cookie bar pop up pour les navigations privées ou l'utilisation de l'application pour la première fois
+3 - Création et utilisation d'une directive: exemple google map API
+4 - Création d'un service de consommation d'un web service d'une API Rest
+5 - Utilisation de framework bootstrap pour le responsive design
+
+

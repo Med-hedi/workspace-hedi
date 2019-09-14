@@ -11,6 +11,7 @@
     width: 100%;
     padding: 15px 0;
     box-shadow: 5px 0px 9px 1px #000;
+    height: 100%;
 }
 
 #cookie-bar .cookie {
